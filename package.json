@@ -1,0 +1,17 @@
+{
+  "name": "secret-store",
+  "version": "1.0.0",
+  "main": "grabsecret.js",
+  "type": "module",
+  "dependencies": {
+    "bowser": "^2.11.0",
+    "fast-xml-parser": "^4.2.5",
+    "strnum": "^1.0.5",
+    "tslib": "^2.6.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
